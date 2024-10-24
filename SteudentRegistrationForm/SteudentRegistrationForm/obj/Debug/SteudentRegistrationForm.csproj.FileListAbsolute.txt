@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\bin\Debug\SteudentRegistrationForm.exe.config
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\bin\Debug\SteudentRegistrationForm.exe
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\bin\Debug\SteudentRegistrationForm.pdb
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.Form1.resources
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.Properties.Resources.resources
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.exe
+C:\Users\PC\source\repos\SteudentRegistrationForm\SteudentRegistrationForm\obj\Debug\SteudentRegistrationForm.pdb

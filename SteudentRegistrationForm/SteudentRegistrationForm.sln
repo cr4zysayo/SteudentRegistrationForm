@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteudentRegistrationForm", "SteudentRegistrationForm\SteudentRegistrationForm.csproj", "{7B9C786D-DD15-4CD4-95E0-34ED753FEDE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9C786D-DD15-4CD4-95E0-34ED753FEDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9C786D-DD15-4CD4-95E0-34ED753FEDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9C786D-DD15-4CD4-95E0-34ED753FEDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9C786D-DD15-4CD4-95E0-34ED753FEDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D84DE05-5421-45AF-9F97-1DB4C867F487}
+	EndGlobalSection
+EndGlobal
